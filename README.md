@@ -1,2 +1,2 @@
 # bingoads
- Bingo realizado em Python como trabalho final de Introdução a Programação de Computadores
+ Bingo realizado em Python ainda no terminal. Apresentado como trabalho final da Disciplina Introdução a Programação de Computadores
